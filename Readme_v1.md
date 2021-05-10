@@ -1,7 +1,0 @@
-Hello,
-
-This code was produced to develop an Autopilot System to any X-Plane 11 aircraft. The method to develop your Autopilot System, called "control", is empty waiting your code which describe your control system. As time goes by, I will optimize the code. Furthermore, I intend to make a manual and a video that will be published on youtube explaining how to configure X-Plane and the PC IP data present in the code to use it.
-
-Any doubt, do not hesitate to contact me.
-
-luanflorencio2@gmail.com
